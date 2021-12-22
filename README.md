@@ -1,0 +1,1 @@
+An example about using Fluent Validation with Asp .Net Core API.
